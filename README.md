@@ -16,5 +16,5 @@ Base de datos "vive_distrito" (https://censos2017.inei.gob.pe/redatam/)
 - No vive permanentemente en este sitio
 (Se utilizará ambas variables para construir otra variable independiente)
 
-Base de datos "" (https://www.datosabiertos.gob.pe/dataset/resultados-por-mesa-de-las-elecciones-municipales-provinciales-2022-oficina-nacional-de-0) 
+Base de datos "tipo_partido" (https://www.datosabiertos.gob.pe/dataset/resultados-por-mesa-de-las-elecciones-municipales-provinciales-2022-oficina-nacional-de-0) 
 - TIPO_PARTIDO (Variable de control)
