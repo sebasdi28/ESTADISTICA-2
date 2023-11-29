@@ -8,13 +8,11 @@ Base de datos "provincia_tipo" (https://censos2017.inei.gob.pe/redatam/
 - Rural encuenta
 (Se utilizará ambas variables para construir otra variable independiente)
 
-Base de datos "resultados_elecciones2021" (https://resultadoshistorico.onpe.gob.pe/DE2022/)
-- Resultado (Variable dependiente)
+Base de datos "resultados_elecciones" (https://infogob.jne.gob.pe/Eleccion/FichaEleccion/elecciones-regionales-y-municipales-2022-municipal-provincial_candidatos-y-resultados_wvtEcm9oTwk=tm)
+- Tipo Organización Política (Se utilizará para construir la variable dependiente y la variable de control)
+- % Voto (Se utilizará para construir la variable dependiente)
 
 Base de datos "vive_distrito" (https://censos2017.inei.gob.pe/redatam/)
 - Sí, vive permanentemente en este sitio
 - No vive permanentemente en este sitio
 (Se utilizará ambas variables para construir otra variable independiente)
-
-Base de datos "tipo_partido" (https://www.datosabiertos.gob.pe/dataset/resultados-por-mesa-de-las-elecciones-municipales-provinciales-2022-oficina-nacional-de-0) 
-- TIPO_PARTIDO (Variable de control)
